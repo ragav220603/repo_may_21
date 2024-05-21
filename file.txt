@@ -1,3 +1,4 @@
 a = 8
 d = 22
 print(a+b)
+print(a*b)
